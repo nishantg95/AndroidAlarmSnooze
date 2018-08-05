@@ -51,4 +51,3 @@ public class AlarmAdapter extends ArrayAdapter<Alarm> {
         return listItem;
     }
 }
-
