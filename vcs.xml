@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/nishantg95/AndroidAlarmSnoozer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nishantg95/AndroidAlarmSnooze.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\nisha\AndroidStudioProjects" />
